@@ -1,0 +1,5 @@
+C:\Users\Lanyi\Desktop\Project\DigitRecognizer\obj\Debug\net9.0-windows\DigitRecognizer.csproj.AssemblyReference.cache
+C:\Users\Lanyi\Desktop\Project\DigitRecognizer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Lanyi\Desktop\Project\DigitRecognizer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Lanyi\Desktop\Project\DigitRecognizer\obj\Debug\net9.0-windows\DigitRecognizer_MarkupCompile.cache
+C:\Users\Lanyi\Desktop\Project\DigitRecognizer\obj\Debug\net9.0-windows\DigitRecognizer_MarkupCompile.lref
