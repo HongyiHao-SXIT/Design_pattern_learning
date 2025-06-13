@@ -1,0 +1,15 @@
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\bin\Debug\net9.0\DigitRecognizer.exe
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\bin\Debug\net9.0\DigitRecognizer.deps.json
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\bin\Debug\net9.0\DigitRecognizer.runtimeconfig.json
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\bin\Debug\net9.0\DigitRecognizer.dll
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\bin\Debug\net9.0\DigitRecognizer.pdb
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.AssemblyInfoInputs.cache
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.AssemblyInfo.cs
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.sourcelink.json
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.dll
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\refint\DigitRecognizer.dll
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.pdb
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\DigitRecognizer.genruntimeconfig.cache
+C:\Users\Lanyi\Desktop\Project\Design_pattern_learning\obj\Debug\net9.0\ref\DigitRecognizer.dll
